@@ -4,4 +4,4 @@ function doubleChar(str){
     return newArr.join('');
 }
 
-console.log(doubleChar('hello')); Should repeat each letter once to get 'hheelllloo';
+console.log(doubleChar('hello')); //Should repeat each letter once to get 'hheelllloo';
