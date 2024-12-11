@@ -5,4 +5,3 @@ function nameString(name){
 
 console.log(nameString("Matt")); // Should return result Matt Edabit
 console.log(nameString("Naeem")); // Should return result Naeem Edabit
-console.log(nameString("Edabit")); //Should return Edabit Edabit
